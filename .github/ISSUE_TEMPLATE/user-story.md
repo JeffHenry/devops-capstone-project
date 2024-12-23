@@ -1,3 +1,12 @@
+---
+name: User Story
+about: Add a new User Story
+title: ''
+labels: ''
+assignees: JeffHenry
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
